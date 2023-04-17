@@ -9,7 +9,7 @@ const Counter = () => {
 
     return (
         <div className="counter">
-            <p> Class Component </p>
+            <p> Functional Component </p>
             <div className="inner">
                 <div className="interactive">
                     <button className="btn" onClick={decrement}>
